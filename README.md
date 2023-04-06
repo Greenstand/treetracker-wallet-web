@@ -1,4 +1,4 @@
-# Treetracker Impact Wallet
+# Treetracker Wallet App
 
 ## Development Environment Quick Start
 
